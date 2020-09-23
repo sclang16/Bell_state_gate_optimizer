@@ -1,6 +1,6 @@
 # QOSF-2020-screening
 
-A Jupyter notebook for quantum circuit optimization by gate parameters.
+A Jupyter notebook for quantum circuit optimization by gradient descent of gate parameters.
 
 This notebook is provided as a solution to Task 2 of the QOSF Mentorship Cohort 2 screening questions. Task 2 is as follows:
 
