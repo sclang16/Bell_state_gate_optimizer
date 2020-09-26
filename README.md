@@ -1,4 +1,4 @@
-# QOSF-2020-screening
+# Bell_state_gate_optimizer
 
 A Jupyter notebook for quantum circuit optimization by gradient descent of gate parameters.
 
